@@ -3,7 +3,7 @@ This project is based on OpenCV library, uses Haar cascade and Dlib library for 
 
 ## ECT(SuperEdge) Project 
 ### Team introduction
-![](images/LOGO.png)
+![](https://github.com/SuperEdge-ECT/face_recognition_ECT-SuperEdge-/blob/master/images/LOGO.png)
 
 ECT (SuperEdge) team has encountered difficulties and been blessed since its establishment. Block chain entrepreneurship itself is unknown. There are many mysteries waiting for us to discover and practice with time. Like science fiction, we are looking forward to the moment when we develop applications. We pay more attention to product lists. Clear and accurate, most of the team is science background, in the machinery, Internet, electronics, physics and other disciplines, we all have research, will learn things can be fully integrated into the block chain.
 
